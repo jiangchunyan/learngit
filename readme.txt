@@ -6,3 +6,5 @@ Now I change this file.
 
 
 The second change.
+
+A change with LICENSE.
